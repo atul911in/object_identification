@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  5 19:00:13 2018
-
-@author: divya
-"""
 import win32com.client as wincl
 import os
 import sys
