@@ -1,2 +1,4 @@
-# object_identification
-object_identification
+- Project to perform following,
+
+- Image classificationn with Python programming
+- Object identification
